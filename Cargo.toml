@@ -1,7 +1,7 @@
 [package]
 name = "rand_seeder"
 version = "0.5.0" # NB: When modifying, also modify html_root_url in lib.rs
-authors = ["Tunahan Coşgun (Tunasoft Yazılım) <info@tunahancosgun.dev>"]
+authors = ["Tunahan Coşgun <info@tunahancosgun.dev>", "Duygu Durmuş <duygudurmus12@gmail.com>"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/tunacosgun/rand_seeder"

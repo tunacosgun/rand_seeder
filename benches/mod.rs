@@ -1,4 +1,4 @@
-// Copyright 2019 Developers of the Rand project.
+// Copyright (c) 2026 Tunahan Coşgun <info@tunahancosgun.dev> & Duygu Durmuş <duygudurmus12@gmail.com> - Tunasoft Yazılım
 //
 // Licensed under the Apache License, Version 2.0 <LICENSE-APACHE or
 // https://www.apache.org/licenses/LICENSE-2.0> or the MIT license

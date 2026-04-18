@@ -1,4 +1,4 @@
-// Copyright 2018 The Rust Project Developers. See the COPYRIGHT
+// Copyright (c) 2026 Tunahan Coşgun <info@tunahancosgun.dev> & Duygu Durmuş <duygudurmus12@gmail.com> - Tunasoft Yazılım
 // file at the top-level directory of this distribution and at
 // https://rust-lang.org/COPYRIGHT.
 //
